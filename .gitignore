@@ -1,0 +1,20 @@
+# folders
+build/
+dist/
+test_example/
+translate-2.0.0_example/
+translator.egg-info/
+.idea/
+
+# files
+*.txt
+*.pdf
+*.png
+*.csv
+*.ipyb
+*.docx
+*.bat
+*.rst
+
+# but not these
+!requirements.txt
