@@ -10,7 +10,6 @@
 #    https://github.com/terryyin/google-translate-python
 # ----------------------------------------------------------------------------
 
-
 import requests
 
 

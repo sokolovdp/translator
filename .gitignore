@@ -11,7 +11,7 @@ translator.egg-info/
 *.pdf
 *.png
 *.csv
-*.ipyb
+*.ipynb
 *.docx
 *.bat
 *.rst
